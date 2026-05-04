@@ -285,6 +285,13 @@ It is a governed, iterative process that integrates data, models, and human over
 
 ---
 
+## Related Work
+
+This project is part of a broader fairness system:
+
+- Fairness Intervention Playbook → defines decision framework  
+- Fairness Implementation Toolkit → executes fairness workflows  
+
 ## Author
 
 Disha Shetty
