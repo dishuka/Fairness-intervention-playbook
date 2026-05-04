@@ -1,0 +1,11 @@
+# System files
+.DS_Store
+
+# Python virtual env
+venv/
+
+# MLflow logs
+mlruns/
+
+# Data files
+data.csv
