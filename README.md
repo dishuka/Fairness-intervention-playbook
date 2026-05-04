@@ -61,7 +61,7 @@ This workflow is:
 
 ### 1. Causal Fairness Analysis
 
-![Causal Fairness Diagram](causal_diagram.png)
+![Causal Diagram](causal_diagram.jpeg)
 
 - Identifies root causes of bias using causal reasoning  
 - Maps relationships between protected attributes, proxy variables, and outcomes  
@@ -77,7 +77,7 @@ Travel Frequency acts as a proxy variable
 
 ### 2. Risk-Based Intervention Selection
 
-![Intervention Decision Flow](decision_diagram.png)
+![Decision Diagram](decision_diagram.jpeg)
 
 Intervention selection is based on:
 
